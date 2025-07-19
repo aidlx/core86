@@ -1,4 +1,6 @@
-![demo](https://github.com/h2337/core86/blob/eca2be73c33b42aee1d3085ee080016fbd4f5f9d/screenshot.png?raw=true)
+![demo](./screenshot.png)
+
+(The screenshot is not representative of the actual current state of the project. The MDA window does not exist yet but other panels displayed mostly work. Some MDA work has been done but it's not finished yet.)
 
 ## Overview
 
